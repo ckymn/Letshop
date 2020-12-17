@@ -1,4 +1,4 @@
-This project was bootstrapped with
+# This project was created with React&Redux(UI) , Node.js(Server)
 
 ## Available Scripts
 
